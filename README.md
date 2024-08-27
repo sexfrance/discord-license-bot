@@ -5,7 +5,7 @@
     A simple program that you can use to make license keys using your bot! 
     <br />
     <br />
-    <a href="https://discord.gg/bestnitro">💬 Discord</a>
+    <a href="https://discord.cyberious.xyz">💬 Discord</a>
     ·
     <a href="https://github.com/sexfrance/discord-license-bot#-changelog">📜 ChangeLog</a>
     ·
